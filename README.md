@@ -1,5 +1,7 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
+# REGISTER NO : 212223230073
+# NAME : HARISHKUMAR R
 # Date : 20-05-2025
 # Aim :
 To write a program to implement the back end of the compiler.
